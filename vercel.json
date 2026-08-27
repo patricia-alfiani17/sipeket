@@ -1,7 +1,7 @@
 {
     "version": 2,
     "functions": {
-        "api/*.php": {
+        "api/index.php": {
             "runtime": "vercel-php@0.9.0"
         }
     },
@@ -19,7 +19,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "false",
         "APP_URL": "https://sistem-sanggar.vercel.app",
-        "APP_KEY": "base64:Hq5/rRuIX0Ui1A3+4cxObCd3/r7vuSHuvDGW620rWE0=",
+        "APP_KEY": "base64:cJymXmz9Yb8z1H1pBds1z66KsfjGJJmSBxnY2+2LF0I=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
